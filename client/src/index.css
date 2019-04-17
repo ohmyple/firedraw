@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+a {
+  color: #333333;
+  text-decoration: none;
+}
+a:hover {
+  color: #EB5757;
+  text-decoration: underline;
+}
+::selection {
+ background: #fd5068;
+ color: #fff;
+}
