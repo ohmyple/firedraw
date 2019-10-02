@@ -10,9 +10,9 @@ live demo: [Firedraw](firedraw.herokuapp.com)
 
 
 ## Table of Contents
-- [Installation](##Installation)
-- [Usage](##Usage)
-- [Architecture](##Architecture)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Architecture](#architecture)
 
 ## Installation
 
