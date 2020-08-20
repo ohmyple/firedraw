@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "aws-sdk": "^2.358.0",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "connect-pg-simple": "^5.0.0",
     "dotenv": "^6.1.0",
